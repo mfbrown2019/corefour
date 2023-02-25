@@ -69,7 +69,7 @@ function App() {
                 <div className="searchContent"></div>
                 <div className="reviewCards" id="movieCards">
                     {
-                        data.map((obj, index) => (
+                        data.reverse().map((obj, index) => (
                             <div className="card" key={obj + index.toString()}>
                                 <img src={require('./' + obj['img'])} />
                                 <div className="cardBody backgroundInfo">
@@ -81,7 +81,7 @@ function App() {
                                     </div>
                                 </div>
                                 <div className="rating backgroundInfo">
-                                    <h2>{core[index]}</h2>
+                                    <h2>{core[core.length - index - 1]}</h2>
                                 </div>
                                 <div className="userrating backgroundInfo">
                                     <h2>{'N/R'}</h2>

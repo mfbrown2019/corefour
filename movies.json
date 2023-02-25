@@ -320,6 +320,1215 @@
           "why": ""
         }
       ]
+    },
+    {
+      "id": 0.8098052163034213,
+      "title": "The Phantom Menace",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.3,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Stranded on the desert planet Tatooine after rescuing young Queen Amidala from the impending invasion of Naboo, Jedi apprentice Obi-Wan Kenobi and his Jedi Master Qui-Gon Jinn discover nine-year-old Anakin",
+      "img": "img/thephantommenace.jpg",
+      "videos": "zseq5bLhaa8",
+      "cast": "Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Pernilla August, Frank Oz",
+      "crew": "George Lucas",
+      "studio": "",
+      "duration": "2h 17m",
+      "rated": "PG",
+      "releasedate": "1999",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.9429768904844535,
+      "title": "Return of the Jedi",
+      "coreReviews": {
+        "matt": {
+          "rating": 5.3,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Epic conclusion of the saga, the Empire prepares to crush the Rebellion with a more powerful Death Star",
+      "img": "img/returnofthejedi.jpg",
+      "videos": "d5DZ6P3eL2o",
+      "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, Peter Mayhew",
+      "crew": "Richard Marquand",
+      "studio": "",
+      "duration": "2h 16m",
+      "rated": "PG",
+      "releasedate": "1983",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.22434282704851505,
+      "title": "Rouge One",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.9,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire’s ultimate weapon of destruction.",
+      "img": "img/rougeone.jpg",
+      "videos": "joldJiP04hk",
+      "cast": "Felicity Jones, Diego Luna, Ben Mendelsohn, Donnie Yen, Mads Mikkelsen, Alan Tudyk",
+      "crew": "Gareth Edwards",
+      "studio": "",
+      "duration": "2h 16m",
+      "rated": "PG-13",
+      "releasedate": "2016",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.6240258338613176,
+      "title": "Solo",
+      "coreReviews": {
+        "matt": {
+          "rating": 8.3,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo befriends his mighty future copilot Chewbacca and meets the notorious gambler Lando Calrissian, beginning a journey that will set the course of one of the Star Wars saga’s most unlikely heroes",
+      "img": "img/solo.webp",
+      "videos": "rRo6FfaECio",
+      "cast": "Alden Ehrenreich, Woody Harrelson, Emilia Clarke, Donald Glover, Thandiwe Newton, Phoebe Waller-Bridge",
+      "crew": "Ron Howard",
+      "studio": "",
+      "duration": "2h 16m",
+      "rated": "PG-13",
+      "releasedate": "2018",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.7163925095709645,
+      "title": "The Empire Strikes back",
+      "coreReviews": {
+        "matt": {
+          "rating": 5.3,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "After the destruction of the Death Star, Imperial forces continue to pursue the Rebels. After the Rebellion’s defeat on the ice planet Hoth, Luke journeys to the planet Dagobah to train with Jedi Master Yoda, who has lived in hiding since the fall of the Republic.",
+      "img": "img/theempirestrikesback.jpg",
+      "videos": "Ooh3k8cJDBg",
+      "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse",
+      "crew": "Irvin Kershner",
+      "studio": "",
+      "duration": "2h 8m",
+      "rated": "PG",
+      "releasedate": "1980",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.7657379880505237,
+      "title": "The Force Awakens",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.4,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "As Kylo Ren and the sinister First Order rise from the ashes of the Empire, Luke Skywalker is missing when the galaxy needs him most.",
+      "img": "img/theforceawakens.jpg",
+      "videos": "eYxeRJCYMY",
+      "cast": "Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega",
+      "crew": "J.J. Abrams",
+      "studio": "Disney",
+      "duration": "2h 21m",
+      "rated": "PG-13",
+      "releasedate": "2015",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.8742529049124139,
+      "title": "The Last Jedi",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.3,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "The Force Awakens join the galactic legends in an epic adventure that unlocks new mysteries of the Force and shocking revelations of the past.",
+      "img": "img/thelastjedi.jpg",
+      "videos": "fgPqJgZepxM",
+      "cast": "Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac",
+      "crew": "Rian Johnson",
+      "studio": "Disney",
+      "duration": "2h 34m",
+      "rated": "PG-13",
+      "releasedate": "",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.32416457604321636,
+      "title": "The Rise of Skywalker",
+      "coreReviews": {
+        "matt": {
+          "rating": 3.2,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Experience the riveting conclusion of the  landmark Skywalker saga, in which new legends will be born—and the final battle for freedom is yet to come.",
+      "img": "img/theriseofskywalker.jpg",
+      "videos": "efzufoWqWQ4",
+      "cast": "Carrie Fisher, Mark Hamill, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac",
+      "crew": "J.J. Abrams",
+      "studio": "Disney",
+      "duration": "2h 23m",
+      "rated": "PG-13",
+      "releasedate": "2019",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.5995387842325406,
+      "title": "Oceans Eleven",
+      "coreReviews": {
+        "matt": {
+          "rating": 8.8,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Danny Ocean and his ten accomplices plan to rob three Las Vegas casinos simultaneously.",
+      "img": "img/oceanseleven.jpg",
+      "videos": "0Mh5ydUEYN4",
+      "cast": "George Clooney, Brad Pitt, Julia Roberts",
+      "crew": "Steven Soderbergh",
+      "studio": "",
+      "duration": "1h 56m",
+      "rated": "PG-13",
+      "releasedate": "2001",
+      "genre": "Crime, Thriller",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.43550548147998214,
+      "title": "Oceans Twelve",
+      "coreReviews": {
+        "matt": {
+          "rating": 7.4,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Daniel Ocean recruits one more team member so he can pull off three major European heists in this sequel to Ocean's Eleven (2001).",
+      "img": "img/oceanstwelve.jpg",
+      "videos": "5ifBonRByPU",
+      "cast": "George Clooney, Brad Pitt, Julia Roberts, Catherine Zeta-Jones, Andy Garcia, Elliott Gould",
+      "crew": "Steven Soderbergh",
+      "studio": "",
+      "duration": "2h 5m",
+      "rated": "PG-13",
+      "releasedate": "2004",
+      "genre": "Crime, Thriller",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.28632801388319273,
+      "title": "Oceans Thirteen",
+      "coreReviews": {
+        "matt": {
+          "rating": 7.8,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Danny Ocean rounds up the boys for a third heist after casino owner Willy Bank double-crosses one of the original eleven, Reuben Tishkoff.",
+      "img": "img/oceansthirteen.jpg",
+      "videos": "so9Eh-Guci8",
+      "cast": "George Clooney, Brad Pitt, Matt Damon, Elliott Gould, Don Cheadle, Michael Mantell",
+      "crew": "Steven Soderbergh",
+      "studio": "",
+      "duration": "2h 2m",
+      "rated": "PG-13",
+      "releasedate": "2007",
+      "genre": "Crime, Thriller",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.6352293789345231,
+      "title": "The Curse of the Black Pearl",
+      "coreReviews": {
+        "matt": {
+          "rating": 9,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "The roguish yet charming Captain Jack Sparrow's idyllic pirate life capsizes after his nemesis, the wily Captain Barbossa, steals his ship, the Black Pearl, and later attacks the town of Port Royal, kidnapping the governor's beautiful daughter Elizabeth.",
+      "img": "img/thecurseoftheblackpearl.jpeg",
+      "videos": "VlJmK95B2ig",
+      "cast": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley, Jack Davenport, Kevin R. McNally, Zoë Saldana",
+      "crew": "Gore Verbinski",
+      "studio": "Disney",
+      "duration": "2h 23m",
+      "rated": "PG-13",
+      "releasedate": "2003",
+      "genre": "Action, Adventure, Family, Childrens",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.623460067668633,
+      "title": "Dead Mans Chest",
+      "coreReviews": {
+        "matt": {
+          "rating": 8.6,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": " Captain Jack Sparrow has a blood debt to pay: He owes his soul to ghastly Davy Jones unless he can cheat death -- and eternal damnation -- by seizing the fabled \"Dead Man's Chest.\" Tremble in terror as the mighty \"Kraken\" roars from the ocean depths to split planks, crush hulls and snap bones!",
+      "img": "img/deadmanschest.jpg",
+      "videos": "pJxYG8gZPbg",
+      "cast": "Johnny Depp,\nOrlando Bloom,\nKeira Knightley,\nStellan Skarsgård,\nBill Nighy,\nJack Davenport",
+      "crew": "Gore Verbinski",
+      "studio": "Disney",
+      "duration": "2h 30m",
+      "rated": "PG-13",
+      "releasedate": "2006",
+      "genre": "Action, Adventure, Family, Childrens",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.6944706605177506,
+      "title": "At Worlds End",
+      "coreReviews": {
+        "matt": {
+          "rating": 7.1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Captain Jack Sparrow, that witty and wily charmer of a pirate, is trapped on a sea of sand in Davy Jones' Locker. In an increasingly shaky alliance, Will Turner, Elizabeth Swann and Captain Barbossa begin a desperate quest to find and rescue him.",
+      "img": "img/atworldsend.webp",
+      "videos": "fjJRksUxkno",
+      "cast": "Johnny Depp\nOrlando Bloom\nKeira Knightley\nStellan Skarsgård\nBill Nighy\nChow Yun-Fat\nGeoffrey Rush",
+      "crew": "Gore Verbinski",
+      "studio": "Disney",
+      "duration": "2h 48m",
+      "rated": "",
+      "releasedate": "2007",
+      "genre": "Action, Adventure, Family, Childrens",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.9294226894723814,
+      "title": "On Stranger Tides",
+      "coreReviews": {
+        "matt": {
+          "rating": 4.6,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "A tale of truth, betrayal, youth, demise - and mermaids! When Jack crosses paths with a woman from his past, he's not sure if it's love, or if she's a ruthless con artist using him to find the fabled Fountain of Youth.",
+      "img": "img/onstrangertides.webp",
+      "videos": "iwUihzW0rPA",
+      "cast": "Johnny Depp,\nPenélope Cruz,\nIan McShane,\nGeoffrey Rush,\nKevin R. McNally",
+      "crew": "Rob Marshall",
+      "studio": "Disney",
+      "duration": "2h 16m",
+      "rated": "PG-13",
+      "releasedate": "2011",
+      "genre": "Action, Adventure, Family, Childrens",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.07381464115711966,
+      "title": "Dead Men Tell No Tales",
+      "coreReviews": {
+        "matt": {
+          "rating": 6,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Down-on-his luck Captain Jack Sparrow finds the winds of ill fortune blowing even more strongly when a crew of deadly ghost pirates led by an old rival, the terrifying Captain Salazar, escape from the Devil's Triangle, determined to kill every pirate at sea...including him. ",
+      "img": "img/deadmentellnotales.jpg",
+      "videos": "U6LiAHZXQNM",
+      "cast": "Johnny Depp,\nJavier Bardem,\nBrenton Thwaites,\nKaya Scodelario,\nKevin R. McNally,\nGolshifteh Farahani,\nDavid Wenham,\nGeoffrey Rush",
+      "crew": " Joachim Rønning, Espen Sandberg",
+      "studio": "Disney",
+      "duration": "2h 9m",
+      "rated": "PG-13",
+      "releasedate": "2017",
+      "genre": "Action, Adventure, Comdey",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.0971976050033363,
+      "title": "An Unexpected Journey",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Set in Middle Earth 60 years before the epic Lord of the Rings trilogy, the adventure follows the journey of Bilbo Baggins, who is swept into an epic quest to reclaim the lost Dwarf Kingdom from the fearsome dragon Smaug",
+      "img": "img/anunexpectedjourney.webp",
+      "videos": "LvRfwsXlrsc",
+      "cast": "Martin Freeman,\nHugo Weaving,\nElijah Wood,\nAndy Serkis,\nKen Stott,\nBarry Humphries,\nJed Brophy,\nMark Hadlow,\nPeter Hambleton",
+      "crew": "Peter Jackson",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "2h 49m",
+      "rated": "PG-13",
+      "releasedate": "2012",
+      "genre": "Action, Adventure, Fantasy",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.2740111930453639,
+      "title": "The Desolation of Smaug",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": " In the company of thirteen dwarves and the wizard Gandalf the Grey (Ian McKellen), Bilbo enters the Lonely Mountain in possession of Gollum's \"precious\" ring and his keen blade, Sting.",
+      "img": "img/thedesolationofsmaug.jpg",
+      "videos": "OPVWy1tFXuc",
+      "cast": "Ian McKellen,\nMartin Freeman,\nRichard Armitage,\nBenedict Cumberbatch,\nEvangeline Lilly,\nLee Pace,\nLuke Evans",
+      "crew": "Peter Jackson",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "2h 41m",
+      "rated": "PG-13",
+      "releasedate": "2013",
+      "genre": "Action, Adventure, Family, Drama",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.8717849046193442,
+      "title": "Battle of the Five Armys",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Set in Middle-earth 60 years before the epic Lord of the Rings trilogy, the adventure follows the journey of Bilbo Baggins, who is swept into an epic quest to reclaim the lost Dwarf Kingdom from the fearsome dragon Smaug.",
+      "img": "img/battleofthefivearmys.jpg",
+      "videos": "V4R3vj55_GY",
+      "cast": "Graham McTavish,\nRichard Armitage,\nKen Stott,\nIan McKellen,\nMartin Freeman,\nMikael Persbrandt,\nLee Pace,\nIan Holm",
+      "crew": "Peter Jackson",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "2h 24m",
+      "rated": "PG-13",
+      "releasedate": "2014",
+      "genre": "Action, Adventure, Family, Drama",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.3145774430698891,
+      "title": "The Fellowship of the Ring",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "The Lord of the Rings, a shy young hobbit named Frodo Baggins inherits a simple gold ring. He knows the ring has power, but not that he alone holds the secret to the survival--or enslavement--of the entire world.",
+      "img": "img/thefellowshipofthering.jpg",
+      "videos": "tsVH9WHrkRE",
+      "cast": "Ian Holm,\nJohn Rhys-Davies,\nHugo Weaving,\nBilly Boyd,\nOrlando Bloom,\nLiv Tyler,\nViggo Mortensen,\nDominic Monaghan,\nElijah Wood,\nIan McKellen,\nAndy Serkis,\nChristopher Lee",
+      "crew": "Peter Jackson",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "2h 58m",
+      "rated": "PG-13",
+      "releasedate": "2002",
+      "genre": "Action, Adventure, Fantasy",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.3406665757939069,
+      "title": "The Two Towers",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Frodo Baggins and Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor.",
+      "img": "img/thetwotowers.jpg",
+      "videos": "2e61KP1yPdw",
+      "cast": "David Wenham,\nOrlando Bloom,\nBrad Dourif,\nElijah Wood,\nChristopher Lee,\nViggo Mortensen,\nBernard Hill,\nCate Blanchett,\nJohn Rhys-Davies,\nHugo Weaving,\nKarl Urban,\nIan McKellen,\nBilly Boyd,\nLiv Tyler,\nDominic Monaghan,\nMiranda Otto,\nAndy Serkis,\nSean Astin",
+      "crew": "Peter Jackson",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "2h 59m",
+      "rated": "PG-13",
+      "releasedate": "2003",
+      "genre": "Action, Adventure, Fantasy",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.5991134390674075,
+      "title": "The Return of the King",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men",
+      "img": "img/thereturnoftheking.jpg",
+      "videos": "y2rYRu8UW8M",
+      "cast": "Elijah Wood,\nIan McKellen,\nLiv Tyler,\nViggo Mortensen,\nSean Astin,\nCate Blanchett,\nJohn Rhys-Davies,\nBernard Hill,\nChristopher Lee,\nBilly Boyd,\nDominic Monaghan,\nOrlando Bloom,\nHugo Weaving,\nMiranda Otto,\nDavid Wenham,\nBrad Dourif,\nAndy Serkis,\nKarl Urban",
+      "crew": "Peter Jackson",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "3h 20m",
+      "rated": "PG-13",
+      "releasedate": "2003",
+      "genre": "Action, Adventure, Fantasy",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.4814583882975676,
+      "title": "Bad Boys",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.4,
+          "why": ""
+        },
+        "nick": {
+          "rating": 4.9,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "On a hot summer night $100 million in heroin is stolen from the Miami Police Department's evidence room. While family man Burnett is envious of Lowrey's bachelor antics, and Lowrey knows zero about being a husband",
+      "img": "img/badboys.jpg",
+      "videos": "ACPY9-v1SwI",
+      "cast": "Martin Lawrence,\nWill Smith,\nTea Leoni,\nTcheky Karyo,\nTheresa Randle,\nJoe Pantoliano",
+      "crew": "Micheal Bay",
+      "studio": "Sony Pictures Movies & Shows",
+      "duration": "1h 58m",
+      "rated": "R",
+      "releasedate": "1995",
+      "genre": "Action, Adventure, Comedy",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.4741653616393009,
+      "title": "Rush Hour",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "When Hong Kong police detective inspector Lee's (Chan) favorite pupil is kidnapped in America, the dedicated cop and martial arts genius travels to the United States to find her.",
+      "img": "img/rushhour.jpg",
+      "videos": "h14CmLhcnrI",
+      "cast": "Tom Wilkinson,\nMark Rolston,\nChris Penn,\nTzi Ma,\nElizabeth Peña,\nRex Linn,\nChris Tucker,\nPhilip Baker Hall,\nKen Leung,\nJackie Chan",
+      "crew": "Brett Ratner",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "1h 37m",
+      "rated": "PG-13",
+      "releasedate": "1998",
+      "genre": "Action, Adventure, Comdey",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.18335830714250556,
+      "title": "Rush Hour 2",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "While vacationing together in Hong Kong, fast-talking Los Angeles Police Department detective Carter (Tucker) and Hong Kong Police inspector Lee (Chan) investigate when a bomb explodes in the American embassy, killing two secret agents on the trail of a ring of smugglers.",
+      "img": "img/rushhourtwo.jpg",
+      "videos": "TD4TRIs8w84",
+      "cast": "Harris Yulin,\nJohn Lone,\nJackie Chan,\nAlan King,\nZiyi Zhang,\nRoselyn Sanchez,\nChris Tucker",
+      "crew": "Brett Ratner",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "1h 30m",
+      "rated": "PG-13",
+      "releasedate": "2001",
+      "genre": "Action, Adventure, Comdey",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.011551208540149904,
+      "title": "Rush Hour 3",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Set in Paris, Rush Hour 3 finds Tucker and Chan's misfit partners from West and East battling a wing of the Chinese organized crime family of the Triads -- with their trademark mix of great action and big laughs.",
+      "img": "img/rushhourthree.jpg",
+      "videos": "ZiDy1P1GA-w",
+      "cast": "Jackie Chan,\nNoemie Lenoir,\nChris Tucker,\nHiroyuki Sanada,\nMax von Sydow,\nYouki Kudoh,\nYvan Attal,\nRoman Polanski,\nJingchu Zhang",
+      "crew": "Brett Ratner",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "1h 30m",
+      "rated": "PG-13",
+      "releasedate": "2007",
+      "genre": "Action, Adventure, Comedy, Drama, Mystery, Suspense",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.9216284329172622,
+      "title": "The Blind Side",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Newcomer Quinton Aaron portrays the oversized teenager transformed from a homeless street kid to a star athlete through the kindness and charity of a dynamic woman (Bullock--Gravity) who offers him a stable home, a caring family and the opportunity to follow his dreams.",
+      "img": "img/theblindside.jpg",
+      "videos": "mrBJR3AbykU",
+      "cast": "Sandra Bullock,\nTim McGraw,\nQuinton Aaron,\nLily Collins,\nRay McKinnon,\nJae Head,\nKathy Bates",
+      "crew": " John Lee Hancock",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "2h 8m",
+      "rated": "PG-13",
+      "releasedate": "2009",
+      "genre": " Sports, Drama",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.6437163455819288,
+      "title": "The Platform",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "A vertical prison with one cell per level. Two people per cell. Only one food platform and two minutes per day to feed. An endless nightmare trapped in The Hole.",
+      "img": "img/theplatform.jpg",
+      "videos": "RlfooqeZcdY",
+      "cast": "Ivan Massagué, Zorion Eguileor, Antonia San Juan\n",
+      "crew": " Galder Gaztelu-Urrutia",
+      "studio": "",
+      "duration": "1h 34m",
+      "rated": "TV-MA",
+      "releasedate": "2019",
+      "genre": "Horror, Sci-Fi, Thriller",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.203382792779375,
+      "title": "I am lenged",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "After a biological war, Robert Neville is the last healthy human living on Earth, but he is not alone. The other humans have become vampire-like mutants, and all are hungry for Neville's blood. By day, he is the hunter, stalking the sleeping undead through the abandoned ruins of civilization.",
+      "img": "img/iamlegend.jpg",
+      "videos": "CMf23buTtRs",
+      "cast": "Will Smith,\nAlice Braga,\nCharlie Tahan,\nSalli Richardson,\nWillow Smith",
+      "crew": " Francis Lawrence",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "1h 40m",
+      "rated": "PG-13",
+      "releasedate": "2007",
+      "genre": "Action, Adventure, Drama, Horror",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.323537079311808,
+      "title": "Happy Gilmore",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Adam Sandler plays Happy Gilmore in his journey to win his grandmas house back by picking up the unlikely sport of Golf.",
+      "img": "img/happygilmore.jpg",
+      "videos": "88H_d7G3m98",
+      "cast": "Adam Sandler,\nChristopher McDonald,\nJulie Bowen,\nFrances Bay,\nCarl Weathers,\nAllen Covert,\nRobert Smigel,\nBob Barker,\nLee Trevino,\nKevin Nealon",
+      "crew": " Dennis Dugan",
+      "studio": "NBC Universal",
+      "duration": "1h 32m",
+      "rated": "PG-13",
+      "releasedate": "1996",
+      "genre": "Comdey",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.25468760053697403,
+      "title": "Caddyshack",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "While caddying at a snooty country club, ambitious young Danny (Michael O'Keefe) goes for a college scholarship. But first he has to impress elitist Judge Smails (Ted Knight - Mary Tyler Moore, Too Close for Comfort) and win the big golf tournament.",
+      "img": "img/caddyshack.jpg",
+      "videos": "ROfwYphXTC4",
+      "cast": "Bill Murray,\nCindy Morgan,\nSarah Holcomb,\nMichael O'Keefe,\nTed Knight,\nRodney Dangerfield,\nChevy Chase",
+      "crew": "Harold Ramis",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "1h 38m",
+      "rated": "R",
+      "releasedate": "1980",
+      "genre": "Comdey",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
     }
   ],
   "matt": [],

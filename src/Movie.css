@@ -50,6 +50,7 @@ header > h1 {
 }
 .info1 {
     grid-area: info1;
+    min-height: 500px;
 }
 .info1 > p {
     margin-top: 10px;

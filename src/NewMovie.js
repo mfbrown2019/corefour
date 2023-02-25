@@ -142,7 +142,7 @@ function NewMovie() {
                 <textarea value={cast} className="cast" name="cast" id="cast" cols="30" rows="5" placeholder="Cast"  onChange={(event) =>
                     setCast(event.target.value)
                 }></textarea>
-                <textarea value={description} name="description" id="description" cols="30" rows="5" placeholder="Description..."  onChange={(event) =>
+                <textarea value={description} maxLength="300" name="description" id="description" cols="30" rows="5" placeholder="Description..."  onChange={(event) =>
                     setDescription(event.target.value)
                 }></textarea>
                 <button type="submit">Add Movie</button>
