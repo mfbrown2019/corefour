@@ -1,213 +1,286 @@
-{"all": {
-    "bullettrain" : {
-        "title": "Bullet Train",
-        "coreReviews": {
-            "matt" : {
-                "rating": 6.5,
-                "why": ""
-            },
-            "nick": {
-                "rating": 8.6,
-                "why": ""
-            },
-            "brad": {
-                "rating": -1,
-                "why": ""
-            },
-            "sherm": {
-                "rating": 7.8,
-                "why": ""
-            }
+{
+  "all": [
+    {
+      "title": "Bullet Train",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.5,
+          "why": ""
         },
-        "description": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common. Unlucky assassin Ladybug (Brad Pitt) is determined to do his job peacefully after one too many gigs has gone off the rails.",
-        "img": "images/bullettrain.jpg",
-        "videos": ["0IOsk2Vlc4o"],
-        "cast": ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Ryan Reynolds"],
-        "page": "pages/bullettrain.html",
-        "crew": [""],
-        "studio": "",
-        "duration": "2h 7m",
-        "rated": "R",
-        "release-date": "2022",
-        "genre": "Action, Comedy, Thriller",
-        "userReviews": [
-            {
-                "name": "",
-                "rating": -1,
-                "why": ""
-            }
-        ]
+        "nick": {
+          "rating": 8.6,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": 7.8,
+          "why": ""
+        }
+      },
+      "description": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common. Unlucky assassin Ladybug (Brad Pitt) is determined to do his job peacefully after one too many gigs has gone off the rails.",
+      "img": "images/bullettrain.jpg",
+      "videos": "0IOsk2Vlc4o",
+      "cast": "Brad Pitt, Joey King, Aaron Taylor-Johnson, Ryan Reynolds",
+      "crew": "",
+      "studio": "",
+      "duration": "2h 7m",
+      "rated": "R",
+      "releasedate": "2022",
+      "genre": "Action, Comedy, Thriller",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "title": "Revenge of the Sith",
+      "coreReviews": {
+        "matt": {
+          "rating": 8.1,
+          "why": "I HAVE NO IDEA"
+        },
+        "nick": {
+          "rating": 8.7,
+          "why": "Does"
+        },
+        "brad": {
+          "rating": 9,
+          "why": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend."
+        },
+        "sherm": {
+          "rating": 9,
+          "why": "Work"
+        }
+      },
+      "description": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.",
+      "img": "images/revengeofthesith.jpg",
+      "videos": "NkWgoPRT2Cs",
+      "cast": "Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Frank Oz, Jimmy Smits",
+      "crew": "",
+      "studio": "",
+      "duration": "2h 21m",
+      "rated": "PG-13",
+      "releasedate": "2005",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": 5,
+          "why": ""
+        },
+        {
+          "name": "",
+          "rating": 3,
+          "why": ""
+        },
+        {
+          "name": "",
+          "rating": 9,
+          "why": ""
+        },
+        {
+          "name": "",
+          "rating": 7.2,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "title": "A New Hope",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.1,
+          "why": ""
+        },
+        "nick": {
+          "rating": 7.6,
+          "why": ""
+        },
+        "brad": {
+          "rating": 6.9,
+          "why": ""
+        },
+        "sherm": {
+          "rating": 8.1,
+          "why": ""
+        }
+      },
+      "description": "Young farm boy Luke Skywalker is thrust into a galaxy of adventure when he intercepts a distress call from the captive Princess Leia. The event launches him on a daring mission to rescue her from the clutches of Darth Vader and the evil Empire.",
+      "img": "images/anewhope.jpg",
+      "videos": "yYNSSNJ0z_U",
+      "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness",
+      "crew": "",
+      "studio": "",
+      "duration": "2h 5m",
+      "rated": "PG",
+      "releasedate": "1977",
+      "genre": "Science Fiction, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "title": "Avengers Endgame",
+      "coreReviews": {
+        "matt": {
+          "rating": 6.6,
+          "why": ""
+        },
+        "nick": {
+          "rating": 7.1,
+          "why": ""
+        },
+        "brad": {
+          "rating": 8,
+          "why": ""
+        },
+        "sherm": {
+          "rating": 9.3,
+          "why": ""
+        }
+      },
+      "description": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, 'Avengers: Endgame.'",
+      "img": "images/avengersendgame.jpg",
+      "videos": "ePpJDKfRAyM",
+      "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
+      "crew": "",
+      "studio": "",
+      "duration": "3h 5m",
+      "rated": "PG-13",
+      "releasedate": "2019",
+      "genre": "Science Fiction, Fantasy, Super Hero, Action-Adventure",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "title": "Uncharted",
+      "coreReviews": {
+        "matt": {
+          "rating": 5,
+          "why": ""
+        },
+        "nick": {
+          "rating": 6,
+          "why": ""
+        },
+        "brad": {
+          "rating": 4.8,
+          "why": ""
+        },
+        "sherm": {
+          "rating": 5.3,
+          "why": ""
+        }
+      },
+      "description": "Street-smart thief Nathan Drake (Tom Holland) is recruited by seasoned treasure hunter Victor “Sully” Sullivan (Mark Wahlberg) to recover a fortune lost by Ferdinand Magellan 500 years ago.",
+      "img": "images/uncharted.jpg",
+      "videos": "Ul2_7yjvsp0",
+      "cast": "Tom Holland, Mark Wallberg, Antonio Banderas",
+      "crew": "Ruben Fleischer",
+      "studio": "",
+      "duration": "1h 55m",
+      "rated": "PG-13",
+      "releasedate": "2022",
+      "genre": "Action & adventure, Drama, Science Fiction",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "title": "Fourty Seven Meters Down Uncaged",
+      "coreReviews": {
+        "matt": {
+          "rating": 2.6,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": 1.4,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Two sisters diving in a ruined underwater city quickly learn they've entered the territory of the deadliest shark species in the claustrophobic labyrinth of submerged caves.",
+      "img": "images/fourtysevenmetersdownuncaged.jpg",
+      "videos": "AvXjx8SZbv8",
+      "cast": "Sophie Nélisse, Corinne Foxx, Brianne Tju",
+      "crew": "Johannes Roberts",
+      "studio": "",
+      "duration": "1h 30m",
+      "rated": "PG-13",
+      "releasedate": "2019",
+      "genre": "Adventure, Drama, Horror",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.704413360546301,
+      "title": "Gamer",
+      "coreReviews": {
+        "matt": {
+          "rating": -1,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment.",
+      "img": "images/gamer.jpg",
+      "videos": "pB8AwvSAltk",
+      "cast": "Gerard Butler, Amber Valletta, Terry Crews, Michael C Hall, Logan Lerman",
+      "crew": "Mark Neveldine, Brian Taylor",
+      "studio": "",
+      "duration": "1h 35m",
+      "rated": "R",
+      "releasedate": "2009",
+      "genre": "Action, Sci-Fi, Thriller",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
     }
-    ,
-    "revengeofthesith": {
-        "title": "Revenge of the Sith",
-        "coreReviews": {
-            "matt" : {
-                "rating": 8.1,
-                "why": "I HAVE NO IDEA"
-            },
-            "nick": {
-                "rating": 8.7,
-                "why": "Does"
-            },
-            "brad": {
-                "rating": 9.0,
-                "why": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend."
-            },
-            "sherm": {
-                "rating": 9.0,
-                "why": "Work"
-            }
-        },
-        "description": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.",
-        "img": "images/revengeofthesith.jpg",
-        "videos": ["NkWgoPRT2Cs"],
-        "cast": ["Ewan McGregor", "Natalie Portman", "Hayden Christensen", "Ian McDiarmid", "Frank Oz", "Jimmy Smits"],
-        "crew": [""],
-        "studio": "",
-        "page": "pages/revengeofthesith.html",
-        "duration": "2h 21m",
-        "rated": "PG-13",
-        "release-date": "2005",
-        "genre": "Science Fiction, Action-Adventure",
-        "userReviews": [
-            {
-                "name": "",
-                "rating": 5,
-                "why": ""
-            },
-            {
-                "name": "",
-                "rating": 3,
-                "why": ""
-            },
-            {
-                "name": "",
-                "rating": 9,
-                "why": ""
-            },
-            {
-                "name": "",
-                "rating": 7.2,
-                "why": ""
-            }
-        ]
-    },
-    "anewhope" : {
-        "title": "A New Hope",
-        "coreReviews": {
-            "matt" : {
-                "rating": 6.1,
-                "why": ""
-            },
-            "nick": {
-                "rating": 7.6,
-                "why": ""
-            },
-            "brad": {
-                "rating": 6.9,
-                "why": ""
-            },
-            "sherm": {
-                "rating": 8.1,
-                "why": ""
-            }
-        },
-        "description": "Young farm boy Luke Skywalker is thrust into a galaxy of adventure when he intercepts a distress call from the captive Princess Leia. The event launches him on a daring mission to rescue her from the clutches of Darth Vader and the evil Empire.",
-        "img": "images/anewhope.jpg",
-        "videos": ["yYNSSNJ0z_U"],
-        "cast": ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "Peter Cushing", "Alec Guinness"],
-        "page": "pages/anewhope.html",
-        "crew": [""],
-        "studio": "",
-        "duration": "2h 5m",
-        "rated": "PG",
-        "release-date": "1977",
-        "genre": "Science Fiction, Action-Adventure",
-        "userReviews": [
-            {
-                "name": "",
-                "rating": -1,
-                "why": ""
-            }
-        ]
-    },
-    "avengersendgame" : {
-        "title": "Avengers: Endgame",
-        "coreReviews": {
-            "matt" : {
-                "rating": 6.6,
-                "why": ""
-            },
-            "nick": {
-                "rating": 7.1,
-                "why": ""
-            },
-            "brad": {
-                "rating": 8.0,
-                "why": ""
-            },
-            "sherm": {
-                "rating": 9.3,
-                "why": ""
-            }
-        },
-        "description": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, 'Avengers: Endgame.'",
-        "img": "images/avengersendgame.jpg",
-        "videos": ["ePpJDKfRAyM"],
-        "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner"],
-        "page": "pages/avengersendgame.html",
-        "crew": [""],
-        "studio": "",
-        "duration": "3h 5m",
-        "rated": "PG-13",
-        "release-date": "2019",
-        "genre": "Science Fiction, Fantasy, Super Hero, Action-Adventure",
-        "userReviews": [
-            {
-                "name": "",
-                "rating": -1,
-                "why": ""
-            }
-        ]
-    },
-    "uncharted" : {
-        "title": "Uncharted",
-        "coreReviews": {
-            "matt" : {
-                "rating": 5,
-                "why": ""
-            },
-            "nick": {
-                "rating": 6,
-                "why": ""
-            },
-            "brad": {
-                "rating": 4.8,
-                "why": ""
-            },
-            "sherm": {
-                "rating": 5.3,
-                "why": ""
-            }
-        },
-        "description": "Street-smart thief Nathan Drake (Tom Holland) is recruited by seasoned treasure hunter Victor “Sully” Sullivan (Mark Wahlberg) to recover a fortune lost by Ferdinand Magellan 500 years ago.",
-        "img": "images/uncharted.jpg",
-        "videos": ["Ul2_7yjvsp0"],
-        "cast": ["Tom Holland", "Mark Wallberg", "Antonio Banderas"],
-        "page": "pages/uncharted.html",
-        "crew": ["Ruben Fleischer"],
-        "studio": "",
-        "duration": "1h 55m",
-        "rated": "PG-13",
-        "release-date": "2022",
-        "genre": "Action & adventure, Drama, Science Fiction",
-        "userReviews": [
-            {
-                "name": "",
-                "rating": -1,
-                "why": ""
-            }
-        ]
-    }
-}}
+  ]
+}

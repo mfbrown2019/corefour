@@ -1,73 +1,70 @@
 import './App.css';
 import { useState } from 'react';
 import { useEffect } from 'react';
+import NewHope from './images/anewhope.jpg';
+import { Link } from 'react-router-dom';
+
+import * as images from './images'; 
 
 function App() {
 
-    const [values, setValues] = useState([]);
-    const [eddited, setEddited] = useState([]);
+    const [data, setdata] = useState([]);
 
     useEffect(() => {
         fetch('http://localhost:3000/all')
         .then(res => {
             return res.json();
         }).then(data => {
-            console.log(data);
-            setValues(data)
+            // console.log(data);
+            setdata(data)
         })
     }, []);
 
 
-
-
-
-
+    const images = require.context('./images', false, /\.(png|jpe?g|svg)$/);
+    const imagesArray = images.keys().map(images);
 
     return (
         <div className="App">
             <header>  
                 <h1>Core Four</h1>
-                <div className="searchDiv">
-                    <input className="headerInput" type="text" placeholder="Filter..."/>
+                <div>
+                    <Link to="/">Home</Link>
+                    <Link to="/NewMovie">Add Movie</Link>
                 </div>
-                <div className="submitDiv">
-                    <button>Filter</button>
-                </div>
-                <form action="pages/addmovie.html">
-                    <button>Add Movie</button>
-                </form>
             </header>
 
             <article>
                 <div className="searchContent"></div>
                 <div className="reviewCards" id="movieCards">
-                    {/* {
-                        values.map((obj) => (
-                            <div className="card">
-                                <img src={obj[0]['img']} />
+                    {
+                        data.map((obj, index) => (
+                            <div className="card" key={obj + index.toString()}>
+                                <img src={images.modifiedText} />
                                 <div className="cardBody backgroundInfo">
-                                    <h1>{obj[0]["title"]}</h1>
-                                    <p>{obj[0]["description"]}</p>
+                                    <h1>{obj["title"]}</h1>
+                                    <p>{obj["description"]}</p>
                                     <div className="moreinfocenter">
-                                        <a href={obj[0]['page']}>More Information</a>
+                                        <Link to="/Movie" state={{ data: obj }}>More Information
+                                        </Link>
                                     </div>
                                 </div>
                                 <div className="rating backgroundInfo">
-                                    <h2>{4}</h2>
+                                    <h2>{obj['coreReviews']['matt']['rating'] + obj['coreReviews']['nick']['rating'] + obj['coreReviews']['brad']['rating'] + obj['coreReviews']['sherm']['rating'] != -4 ? ((obj['coreReviews']['matt']['rating'] + obj['coreReviews']['nick']['rating'] + obj['coreReviews']['brad']['rating'] + obj['coreReviews']['sherm']['rating']) / 4).toFixed(1) : "N/R"}</h2>
                                 </div>
                                 <div className="userrating backgroundInfo">
-                                    <h2>{4}</h2>
+                                    <h2>{'N/R'}</h2>
                                 </div>
                             </div>
                         ) 
                     
-                    )} */}
+                    )}
                     
                 </div>
             </article>
 
             <footer>
-                &#169 2023 M.M.G.A.
+                &copy; 2023 Core Four
             </footer>
         </div>
     );

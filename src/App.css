@@ -9,15 +9,16 @@ body {
 
 header {
     padding: 1rem;
-    background-color: black;
-    display: grid;
-    grid-template-columns: 1fr 2fr 10fr 2fr 1fr;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    place-items: center;
+    justify-content: center;
 }
 
 header > h1 {
     color: white;
     text-align: left;
-    grid-column: 1/2;
 }
 
 .mainContent {
