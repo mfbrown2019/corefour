@@ -21,7 +21,7 @@
         }
       },
       "description": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common. Unlucky assassin Ladybug (Brad Pitt) is determined to do his job peacefully after one too many gigs has gone off the rails.",
-      "img": "images/bullettrain.jpg",
+      "img": "img/bullettrain.jpg",
       "videos": "0IOsk2Vlc4o",
       "cast": "Brad Pitt, Joey King, Aaron Taylor-Johnson, Ryan Reynolds",
       "crew": "",
@@ -59,7 +59,7 @@
         }
       },
       "description": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.",
-      "img": "images/revengeofthesith.jpg",
+      "img": "img/revengeofthesith.jpg",
       "videos": "NkWgoPRT2Cs",
       "cast": "Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Frank Oz, Jimmy Smits",
       "crew": "",
@@ -112,7 +112,7 @@
         }
       },
       "description": "Young farm boy Luke Skywalker is thrust into a galaxy of adventure when he intercepts a distress call from the captive Princess Leia. The event launches him on a daring mission to rescue her from the clutches of Darth Vader and the evil Empire.",
-      "img": "images/anewhope.jpg",
+      "img": "img/anewhope.jpg",
       "videos": "yYNSSNJ0z_U",
       "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness",
       "crew": "",
@@ -150,7 +150,7 @@
         }
       },
       "description": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, 'Avengers: Endgame.'",
-      "img": "images/avengersendgame.jpg",
+      "img": "img/avengersendgame.jpg",
       "videos": "ePpJDKfRAyM",
       "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
       "crew": "",
@@ -188,7 +188,7 @@
         }
       },
       "description": "Street-smart thief Nathan Drake (Tom Holland) is recruited by seasoned treasure hunter Victor “Sully” Sullivan (Mark Wahlberg) to recover a fortune lost by Ferdinand Magellan 500 years ago.",
-      "img": "images/uncharted.jpg",
+      "img": "img/uncharted.jpg",
       "videos": "Ul2_7yjvsp0",
       "cast": "Tom Holland, Mark Wallberg, Antonio Banderas",
       "crew": "Ruben Fleischer",
@@ -226,7 +226,7 @@
         }
       },
       "description": "Two sisters diving in a ruined underwater city quickly learn they've entered the territory of the deadliest shark species in the claustrophobic labyrinth of submerged caves.",
-      "img": "images/fourtysevenmetersdownuncaged.jpg",
+      "img": "img/fourtysevenmetersdownuncaged.jpg",
       "videos": "AvXjx8SZbv8",
       "cast": "Sophie Nélisse, Corinne Foxx, Brianne Tju",
       "crew": "Johannes Roberts",
@@ -248,7 +248,7 @@
       "title": "Gamer",
       "coreReviews": {
         "matt": {
-          "rating": -1,
+          "rating": 1.8,
           "why": ""
         },
         "nick": {
@@ -265,7 +265,7 @@
         }
       },
       "description": "In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment.",
-      "img": "images/gamer.jpg",
+      "img": "img/gamer.jpg",
       "videos": "pB8AwvSAltk",
       "cast": "Gerard Butler, Amber Valletta, Terry Crews, Michael C Hall, Logan Lerman",
       "crew": "Mark Neveldine, Brian Taylor",

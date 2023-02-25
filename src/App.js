@@ -1,7 +1,7 @@
 import './App.css';
 import { useState } from 'react';
 import { useEffect } from 'react';
-import NewHope from './images/anewhope.jpg';
+// import NewHope from './images/anewhope.jpg';
 import { Link } from 'react-router-dom';
 
 function App() {
@@ -55,23 +55,6 @@ function App() {
     console.log(core)
 
 
-    const items = [];
-    function importAll(r) {
-        let images = {};
-        r.keys().map((item, index) => {
-            images[item.replace("./", "")] = r(item);
-            return images;
-        });
-        return images;
-    }
-
-    const images = importAll(
-        require.context("./images", false, /\.(png|jpe?g|svg)$/)
-    );
-    for (const [, [, value]] of Object.entries(Object.entries(images))) {
-        items.push(value);
-    }
-
     return (
         <div className="App">
             <header>  
@@ -88,7 +71,7 @@ function App() {
                     {
                         data.map((obj, index) => (
                             <div className="card" key={obj + index.toString()}>
-                                <img src={'./' + obj['img'].default} />
+                                <img src={require('./' + obj['img'])} />
                                 <div className="cardBody backgroundInfo">
                                     <h1>{obj["title"]}</h1>
                                     <p>{obj["description"]}</p>
