@@ -4,8 +4,6 @@ import { useEffect } from 'react';
 import NewHope from './images/anewhope.jpg';
 import { Link } from 'react-router-dom';
 
-import * as images from './images'; 
-
 function App() {
 
     const [data, setdata] = useState([]);
@@ -20,9 +18,59 @@ function App() {
         })
     }, []);
 
+    var core = []
+    
 
-    const images = require.context('./images', false, /\.(png|jpe?g|svg)$/);
-    const imagesArray = images.keys().map(images);
+    data.map((obj, index) => {
+
+        let corefourscore = 0;
+        let coreReviewed = 0;
+        
+        if (obj['coreReviews']['matt']['rating'] != -1) {
+            corefourscore = corefourscore + obj['coreReviews']['matt']['rating'];
+            coreReviewed = coreReviewed + 1;
+        }
+        console.log(corefourscore)
+        if (obj['coreReviews']['nick']['rating'] != -1) {
+            corefourscore = corefourscore + obj['coreReviews']['nick']['rating'];
+            coreReviewed = coreReviewed + 1;
+        }
+        console.log(corefourscore)
+        if (obj['coreReviews']['brad']['rating'] != -1) {
+            corefourscore = corefourscore + obj['coreReviews']['brad']['rating'];
+            coreReviewed = coreReviewed + 1;
+        }
+        console.log(corefourscore)
+        if (obj['coreReviews']['sherm']['rating'] != -1) {
+            corefourscore = corefourscore + obj['coreReviews']['sherm']['rating'];
+            coreReviewed = coreReviewed + 1;
+        }
+        if (corefourscore == 0) {
+            core.push("N/R")
+        } else {
+            core.push((corefourscore / coreReviewed).toFixed(1));
+        }
+        
+    })
+    console.log(core)
+
+
+    const items = [];
+    function importAll(r) {
+        let images = {};
+        r.keys().map((item, index) => {
+            images[item.replace("./", "")] = r(item);
+            return images;
+        });
+        return images;
+    }
+
+    const images = importAll(
+        require.context("./images", false, /\.(png|jpe?g|svg)$/)
+    );
+    for (const [, [, value]] of Object.entries(Object.entries(images))) {
+        items.push(value);
+    }
 
     return (
         <div className="App">
@@ -40,7 +88,7 @@ function App() {
                     {
                         data.map((obj, index) => (
                             <div className="card" key={obj + index.toString()}>
-                                <img src={images.modifiedText} />
+                                <img src={'./' + obj['img'].default} />
                                 <div className="cardBody backgroundInfo">
                                     <h1>{obj["title"]}</h1>
                                     <p>{obj["description"]}</p>
@@ -50,7 +98,7 @@ function App() {
                                     </div>
                                 </div>
                                 <div className="rating backgroundInfo">
-                                    <h2>{obj['coreReviews']['matt']['rating'] + obj['coreReviews']['nick']['rating'] + obj['coreReviews']['brad']['rating'] + obj['coreReviews']['sherm']['rating'] != -4 ? ((obj['coreReviews']['matt']['rating'] + obj['coreReviews']['nick']['rating'] + obj['coreReviews']['brad']['rating'] + obj['coreReviews']['sherm']['rating']) / 4).toFixed(1) : "N/R"}</h2>
+                                    <h2>{core[index]}</h2>
                                 </div>
                                 <div className="userrating backgroundInfo">
                                     <h2>{'N/R'}</h2>
