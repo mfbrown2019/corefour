@@ -9,7 +9,7 @@ function App() {
     const [data, setdata] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:3000/all')
+        fetch('http://localhost:3001/all')
         .then(res => {
             return res.json();
         }).then(data => {

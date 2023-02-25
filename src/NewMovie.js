@@ -70,7 +70,7 @@ function NewMovie() {
             }),
         };
         
-        fetch("http://localhost:3000/all", requestOptions)
+        fetch("http://localhost:3001/all", requestOptions)
 
 
         setTitle("")

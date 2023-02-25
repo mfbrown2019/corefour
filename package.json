@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "json": "json-server --watch movies.json",
+    "json": "json-server --watch movies.json --port 3001",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
