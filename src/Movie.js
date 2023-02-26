@@ -44,8 +44,13 @@ function Movie(props) {
         
             <header>
                 <h1>Core Four</h1>
+                <div className='filterbar'>
+                    <input type='text'></input>
+                    <input type='submit'></input>
+                </div>
                 <div>
                     <Link to="/">Home</Link>
+                    <Link to="/ToRate">To Rate</Link>
                     <Link to="/NewMovie">Add Movie</Link>
                 </div>
             </header>

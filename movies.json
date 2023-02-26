@@ -539,7 +539,7 @@
       },
       "description": "As Kylo Ren and the sinister First Order rise from the ashes of the Empire, Luke Skywalker is missing when the galaxy needs him most.",
       "img": "img/theforceawakens.jpg",
-      "videos": "eYxeRJCYMY",
+      "videos": "-eYxeRJCYMY",
       "cast": "Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega",
       "crew": "J.J. Abrams",
       "studio": "Disney",
@@ -1340,7 +1340,7 @@
       "title": "The Blind Side",
       "coreReviews": {
         "matt": {
-          "rating": -1,
+          "rating": 9.4,
           "why": ""
         },
         "nick": {
@@ -1521,6 +1521,45 @@
       "duration": "1h 38m",
       "rated": "R",
       "releasedate": "1980",
+      "genre": "Comdey",
+      "userReviews": [
+        {
+          "name": "",
+          "rating": -1,
+          "why": ""
+        }
+      ]
+    },
+    {
+      "id": 0.7976353475059899,
+      "title": "Wedding Crashers",
+      "coreReviews": {
+        "matt": {
+          "rating": 8.4,
+          "why": ""
+        },
+        "nick": {
+          "rating": -1,
+          "why": ""
+        },
+        "brad": {
+          "rating": -1,
+          "why": ""
+        },
+        "sherm": {
+          "rating": -1,
+          "why": ""
+        }
+      },
+      "description": "Owen Wilson and Vince Vaughn star as John Beck with and Jeremy Klein, two partying divorce attorneys who have figured out a surefire way to meet women: they crash weddings. But the guys' happy-go-lucky lives change abruptly when John unexpectedly falls in love with a bridesmaid.",
+      "img": "img/weddingcrashers.jpg",
+      "videos": "pzadql4ud30",
+      "cast": "Owen Wilson,\nVaughn Vince,\nVince Vaughn,\nChristopher Walken,\nWill Ferrell,\nRachel McAdams,\nIsla Fisher,\nJane Seymour",
+      "crew": "David Dobkin",
+      "studio": "Warner Bros. Entertainment",
+      "duration": "2h 6m",
+      "rated": "R",
+      "releasedate": "2005",
       "genre": "Comdey",
       "userReviews": [
         {

@@ -1,0 +1,95 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+}
+
+header {
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    place-items: center;
+}
+
+.filterbar > input {
+    margin-left: 10px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+.filterbar {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+input[type='submit']{
+    transition: .5s;
+}
+
+input[type='submit']:hover {
+    background-color: lightcoral;
+    cursor: pointer;
+}
+
+header > h1 {
+    color: white;
+    text-align: left;
+}
+
+.CoreFour {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 2rem;
+    gap: 1rem;
+    color: black;
+}
+
+.CoreFour h3, .CoreFour p {
+    width: 100%;
+    text-align: center;
+}
+
+.CoreFour h3 {
+    margin-bottom: 1rem;
+}
+
+.CoreFour > div {
+    background-color: white;
+    height: fit-content;
+    padding: 1rem;
+    border-radius: 20px;
+
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.type {
+    margin: 0;
+}
+
+.line {
+    margin: 1rem 0rem;
+    border: 1px solid lightcoral;
+}
+
+.torate a {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    place-items: center;
+    cursor: pointer;
+}
