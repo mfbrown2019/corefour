@@ -17,6 +17,12 @@ header {
     justify-content: center;
 }
 
+header > input {
+    width: 40%;
+    box-shadow: none;
+}
+
+
 header > h1 {
     color: white;
     text-align: left;

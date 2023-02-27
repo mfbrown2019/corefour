@@ -39,23 +39,23 @@
       ]
     },
     {
-      "title": "Revenge of the Sith",
+      "title": "Star Wars Revenge of the Sith",
       "coreReviews": {
         "matt": {
           "rating": 8.1,
-          "why": "I HAVE NO IDEA"
+          "why": ""
         },
         "nick": {
           "rating": 8.7,
-          "why": "Does"
+          "why": ""
         },
         "brad": {
           "rating": 9,
-          "why": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend."
+          "why": ""
         },
         "sherm": {
           "rating": 9,
-          "why": "Work"
+          "why": ""
         }
       },
       "description": "Clone Wars rage across the galaxy. A sinister Sith Lord seizes control of the Republic and corrupts Anakin Skywalker to be his dark apprentice, Darth Vader. Now, in an epic lightsaber duel, Jedi Obi-Wan Kenobi must confront his fallen friend.",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "title": "A New Hope",
+      "title": "Star Wars A New Hope",
       "coreReviews": {
         "matt": {
           "rating": 6.1,
@@ -284,7 +284,7 @@
     },
     {
       "id": 0.7909384696976958,
-      "title": "Attack of the Clones",
+      "title": "Star Wars Attack of the Clones",
       "coreReviews": {
         "matt": {
           "rating": 7.1,
@@ -295,7 +295,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 6.9,
           "why": ""
         },
         "sherm": {
@@ -323,7 +323,7 @@
     },
     {
       "id": 0.8098052163034213,
-      "title": "The Phantom Menace",
+      "title": "Star Wars The Phantom Menace",
       "coreReviews": {
         "matt": {
           "rating": 6.3,
@@ -334,7 +334,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 7.5,
           "why": ""
         },
         "sherm": {
@@ -362,7 +362,7 @@
     },
     {
       "id": 0.9429768904844535,
-      "title": "Return of the Jedi",
+      "title": "Star Wars Return of the Jedi",
       "coreReviews": {
         "matt": {
           "rating": 5.3,
@@ -373,7 +373,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 7,
           "why": ""
         },
         "sherm": {
@@ -401,7 +401,7 @@
     },
     {
       "id": 0.22434282704851505,
-      "title": "Rouge One",
+      "title": "Star Wars Rogue One",
       "coreReviews": {
         "matt": {
           "rating": 6.9,
@@ -412,7 +412,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 8.9,
           "why": ""
         },
         "sherm": {
@@ -440,7 +440,7 @@
     },
     {
       "id": 0.6240258338613176,
-      "title": "Solo",
+      "title": "Star Wars Solo",
       "coreReviews": {
         "matt": {
           "rating": 8.3,
@@ -451,7 +451,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 7.8,
           "why": ""
         },
         "sherm": {
@@ -479,7 +479,7 @@
     },
     {
       "id": 0.7163925095709645,
-      "title": "The Empire Strikes back",
+      "title": "Star Wars The Empire Strikes back",
       "coreReviews": {
         "matt": {
           "rating": 5.3,
@@ -490,7 +490,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 8.8,
           "why": ""
         },
         "sherm": {
@@ -518,7 +518,7 @@
     },
     {
       "id": 0.7657379880505237,
-      "title": "The Force Awakens",
+      "title": "Star Wars The Force Awakens",
       "coreReviews": {
         "matt": {
           "rating": 6.4,
@@ -529,7 +529,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 6.7,
           "why": ""
         },
         "sherm": {
@@ -557,7 +557,7 @@
     },
     {
       "id": 0.8742529049124139,
-      "title": "The Last Jedi",
+      "title": "Star Wars The Last Jedi",
       "coreReviews": {
         "matt": {
           "rating": 6.3,
@@ -568,7 +568,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 6.1,
           "why": ""
         },
         "sherm": {
@@ -596,7 +596,7 @@
     },
     {
       "id": 0.32416457604321636,
-      "title": "The Rise of Skywalker",
+      "title": "Star Wars The Rise of Skywalker",
       "coreReviews": {
         "matt": {
           "rating": 3.2,
@@ -607,7 +607,7 @@
           "why": ""
         },
         "brad": {
-          "rating": -1,
+          "rating": 5.4,
           "why": ""
         },
         "sherm": {
@@ -752,7 +752,7 @@
     },
     {
       "id": 0.6352293789345231,
-      "title": "The Curse of the Black Pearl",
+      "title": "Pirates of the Carobbean The Curse of the Black Pearl",
       "coreReviews": {
         "matt": {
           "rating": 9,
@@ -791,7 +791,7 @@
     },
     {
       "id": 0.623460067668633,
-      "title": "Dead Mans Chest",
+      "title": "Pirates of the Carobbean Dead Mans Chest",
       "coreReviews": {
         "matt": {
           "rating": 8.6,
@@ -830,7 +830,7 @@
     },
     {
       "id": 0.6944706605177506,
-      "title": "At Worlds End",
+      "title": "Pirates of the Carobbean At Worlds End",
       "coreReviews": {
         "matt": {
           "rating": 7.1,
@@ -869,7 +869,7 @@
     },
     {
       "id": 0.9294226894723814,
-      "title": "On Stranger Tides",
+      "title": "Pirates of the Carobbean On Stranger Tides",
       "coreReviews": {
         "matt": {
           "rating": 4.6,
@@ -908,7 +908,7 @@
     },
     {
       "id": 0.07381464115711966,
-      "title": "Dead Men Tell No Tales",
+      "title": "Pirates of the Carobbean Dead Men Tell No Tales",
       "coreReviews": {
         "matt": {
           "rating": 6,
@@ -947,7 +947,7 @@
     },
     {
       "id": 0.0971976050033363,
-      "title": "An Unexpected Journey",
+      "title": "The Hobbit An Unexpected Journey",
       "coreReviews": {
         "matt": {
           "rating": -1,
@@ -986,7 +986,7 @@
     },
     {
       "id": 0.2740111930453639,
-      "title": "The Desolation of Smaug",
+      "title": "The Hobbit The Desolation of Smaug",
       "coreReviews": {
         "matt": {
           "rating": -1,
@@ -1025,7 +1025,7 @@
     },
     {
       "id": 0.8717849046193442,
-      "title": "Battle of the Five Armys",
+      "title": "The Hobbit Battle of the Five Armys",
       "coreReviews": {
         "matt": {
           "rating": -1,
@@ -1064,7 +1064,7 @@
     },
     {
       "id": 0.3145774430698891,
-      "title": "The Fellowship of the Ring",
+      "title": "Lord of the Rings The Fellowship of the Ring",
       "coreReviews": {
         "matt": {
           "rating": -1,
@@ -1103,7 +1103,7 @@
     },
     {
       "id": 0.3406665757939069,
-      "title": "The Two Towers",
+      "title": "Lord of the Rings The Two Towers",
       "coreReviews": {
         "matt": {
           "rating": -1,
@@ -1142,7 +1142,7 @@
     },
     {
       "id": 0.5991134390674075,
-      "title": "The Return of the King",
+      "title": "Lord of the Rings The Return of the King",
       "coreReviews": {
         "matt": {
           "rating": -1,

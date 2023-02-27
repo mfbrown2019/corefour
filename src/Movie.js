@@ -44,10 +44,6 @@ function Movie(props) {
         
             <header>
                 <h1>Core Four</h1>
-                <div className='filterbar'>
-                    <input type='text'></input>
-                    <input type='submit'></input>
-                </div>
                 <div>
                     <Link to="/">Home</Link>
                     <Link to="/ToRate">To Rate</Link>
@@ -68,6 +64,8 @@ function Movie(props) {
                     <p><b>Description:</b> {values["description"]}</p>
                     <p><b>Staring: </b>{values['cast']}</p>
                     <p><b>Genre:</b> {values["genre"]}</p>
+                    <p><b>Director:</b> {values["crew"]}</p>
+                    <p><b>Studio:</b> {values["studio"]}</p>
                 </div>
                 <div className="info2 box-fitting">
                     <div className="ratingTitle">

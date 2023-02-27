@@ -7,6 +7,9 @@ import { Link } from 'react-router-dom';
 function App() {
 
     const [data, setdata] = useState([]);
+    const [realdata, setrealdata] = useState([]);
+    const [filter, setFilter] = useState("");
+    
 
     useEffect(() => {
         fetch('http://localhost:3001/all')
@@ -14,12 +17,14 @@ function App() {
             return res.json();
         }).then(data => {
             // console.log(data);
-            setdata(data)
+            setdata(data);
+            setrealdata(data)
         })
     }, []);
 
     var core = []
     
+
 
     data.map((obj, index) => {
 
@@ -30,17 +35,17 @@ function App() {
             corefourscore = corefourscore + obj['coreReviews']['matt']['rating'];
             coreReviewed = coreReviewed + 1;
         }
-        console.log(corefourscore)
+        
         if (obj['coreReviews']['nick']['rating'] != -1) {
             corefourscore = corefourscore + obj['coreReviews']['nick']['rating'];
             coreReviewed = coreReviewed + 1;
         }
-        console.log(corefourscore)
+        
         if (obj['coreReviews']['brad']['rating'] != -1) {
             corefourscore = corefourscore + obj['coreReviews']['brad']['rating'];
             coreReviewed = coreReviewed + 1;
         }
-        console.log(corefourscore)
+        
         if (obj['coreReviews']['sherm']['rating'] != -1) {
             corefourscore = corefourscore + obj['coreReviews']['sherm']['rating'];
             coreReviewed = coreReviewed + 1;
@@ -52,18 +57,33 @@ function App() {
         }
         
     })
-    console.log(core)
 
+    function filterFunc(e) {
+        e.preventDefault();
 
+        let randdata = realdata.reverse().filter(item => {
+            // console.log(item['title'].toLowerCase().includes(filter) )
+            console.log(document.getElementById('filt').value)
+
+            let allText = item['title'] + ' ' + item['cast'] + ' ' + item['crew'] + ' ' + item['studio'] + ' ' + item['rated'] + ' ' + item['releasedata'] + ' ' + item['genre'];
+            
+            if (item['tags'] == ""){
+                return (allText).indexOf(document.getElementById('filt').value.toLowerCase()) !== -1;
+            } else {
+                return (allText).toLowerCase().indexOf(document.getElementById('filt').value.toLowerCase()) !== -1;
+            }
+        });
+        console.log(randdata)
+        setdata(randdata)
+    }
+
+    
     return (
         <div className="App">
             <header>  
                 <h1>Core Four</h1>
+                <input id='filt'  onKeyDown={(e) => {if (e.key == 'Enter') { console.log(e.key); filterFunc(e) }}} type='text'></input>
                 <div className='filterbar'>
-                    <input type='text'></input>
-                    <input type='submit'></input>
-                </div>
-                <div>
                     <Link to="/">Home</Link>
                     <Link to="/ToRate">To Rate</Link>
                     <Link to="/NewMovie">Add Movie</Link>
@@ -92,9 +112,8 @@ function App() {
                                     <h2>{'N/R'}</h2>
                                 </div>
                             </div>
-                        ) 
-                    
-                    )}
+                            
+                    ))}
                     
                 </div>
             </article>

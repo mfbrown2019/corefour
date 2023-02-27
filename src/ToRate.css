@@ -16,31 +16,6 @@ header {
     place-items: center;
 }
 
-.filterbar > input {
-    margin-left: 10px;
-    border-radius: 5px;
-    box-shadow: none;
-}
-
-.filterbar {
-    height: 100%;
-    display: flex;
-    justify-content: space-around;
-}
-
-
-
-
-
-input[type='submit']{
-    transition: .5s;
-}
-
-input[type='submit']:hover {
-    background-color: lightcoral;
-    cursor: pointer;
-}
-
 header > h1 {
     color: white;
     text-align: left;

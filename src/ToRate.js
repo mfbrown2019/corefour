@@ -78,20 +78,17 @@ function ToRate() {
         
     })
 
-    var mattaverage = (mattaverage / mattamount).toFixed(1)
-    var nickaverage = (nickaverage / nickamount).toFixed(1)
-    var bradaverage = (bradaverage / bradamount).toFixed(1)
-    var shermaverage = (shermaverage / shermamount).toFixed(1)
+    mattaverage = (mattaverage / mattamount).toFixed(1)
+    nickaverage = (nickaverage / nickamount).toFixed(1)
+    bradaverage = (bradaverage / bradamount).toFixed(1)
+    shermaverage = (shermaverage / shermamount).toFixed(1)
 
 
     return (
         <div>
             <header>
                 <h1>Core Four</h1>
-                <div className='filterbar'>
-                    <input type='text'></input>
-                    <input type='submit'></input>
-                </div>
+
                 <div>
                     <Link to="/">Home</Link>
                     <Link to="/ToRate">To Rate</Link>

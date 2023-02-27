@@ -7,7 +7,6 @@ function NewMovie() {
 
     const [title, setTitle] = useState("");
     const [description, setDescription] = useState("");
-    const [img, setImg] = useState("");
     const [videos, setVideos] = useState("");
     const [cast, setCast] = useState("");
     const [crew, setCrew] = useState("");
@@ -25,7 +24,13 @@ function NewMovie() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        
+
+        if (title == "" || description == "" || videos == "" || cast == "" || studio == "" || duration == "" || rated == "" || releaseData == "" || genre == ""){
+            return
+        }
+
+
+
         const requestOptions = {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -51,7 +56,7 @@ function NewMovie() {
                     }
                 },
                 description: description,
-                img: img,
+                img: `img/${lowerTitle}.jpg`,
                 videos: videos,
                 cast: cast,
                 crew: crew,
@@ -75,7 +80,6 @@ function NewMovie() {
 
         setTitle("")
         setDescription("")
-        setImg("")
         setVideos("")
         setCast("")
         setCrew("")
@@ -97,10 +101,7 @@ function NewMovie() {
             
             <header>
                 <h1>Core Four</h1>
-                <div className='filterbar'>
-                    <input type='text'></input>
-                    <input type='submit'></input>
-                </div>
+
                 <div>
                     <Link to="/">Home</Link>
                     <Link to="/ToRate">To Rate</Link>
@@ -116,10 +117,7 @@ function NewMovie() {
                     console.log(lowerTitle, 'hi');
                 }
                 }/>
-                <input value={img} name="img" type="text" placeholder="Image Path..."  onChange={(event) =>
-                    setImg(event.target.value)
-                }/>
-                <input value={crew} name="crew" type="text" placeholder="Crew..."  onChange={(event) =>
+                <input value={crew} name="crew" type="text" placeholder="Director..."  onChange={(event) =>
                     setCrew(event.target.value)
                 }/>
                 <input value={studio} name="studio" type="text" placeholder="Studio..."  onChange={(event) =>
@@ -129,7 +127,7 @@ function NewMovie() {
                     setGenre(event.target.value)
                 }/>
                 <div className="three">
-                    <input value={videos} name="videos" type="text" placeholder="Trailer..."  onChange={(event) =>
+                    <input value={videos} name="videos" type="text" placeholder="Trailer..." autoComplete='off' onChange={(event) =>
                         setVideos(event.target.value)
                     }/>
                     <input value={rated} name="rated" type="text" placeholder="Rated..."  onChange={(event) =>
@@ -137,10 +135,10 @@ function NewMovie() {
                     }/>
                 </div>
                 <div className="three">
-                    <input value={duration} name="duraiton" type="text" placeholder="Duration..."  onChange={(event) =>
+                    <input value={duration} autoComplete='off' name="duraiton" type="text" placeholder="Duration..."  onChange={(event) =>
                         setDuration(event.target.value)
                     }/>
-                    <input value={releaseData} name="release-date" type="text" placeholder="Release Date..."  onChange={(event) =>
+                    <input value={releaseData} autoComplete='off' name="release-date" type="text" placeholder="Release Date..."  onChange={(event) =>
                         setReleaseData(event.target.value)
                     }/>
                 </div>
